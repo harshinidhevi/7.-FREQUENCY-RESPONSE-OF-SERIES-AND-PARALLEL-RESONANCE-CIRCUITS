@@ -25,19 +25,21 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
-
+<img width="516" height="780" alt="image" src="https://github.com/user-attachments/assets/a18e9b67-b1a8-46d1-b405-d0367cfd50b5" />
 
 
 **Model graph:**
 
-
-
+<img width="418" height="786" alt="image" src="https://github.com/user-attachments/assets/e64236d8-4476-4496-b3ca-23c5f298f922" />
 
 **TABULATION:**
+
+<img width="1280" height="493" alt="WhatsApp Image 2026-05-31 at 6 14 55 PM" src="https://github.com/user-attachments/assets/b85d1d34-caa0-41e9-a10c-07e758eea04b" />
 
 
 **Calculation:**
 
+<img width="1018" height="1064" alt="WhatsApp Image 2026-05-31 at 6 16 04 PM" src="https://github.com/user-attachments/assets/b82d7880-e776-4026-a000-f335b2d97325" />
 
 
 
@@ -51,8 +53,6 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 6.	Calculate the bandwidth by subtracting the 2 cut-off frequencies.
 7.	Calculate the Q factor
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
-
-**Mark split up:**
 
 **RESULT:**
 
